@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moumachir-dana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Moumachir Dana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moumachir-dana/) |
+| **Get License** | [Request Licensing for Moumachir Dana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moumachir-dana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার রাতে চাদর মুড়ে ছুঁয়ে দাও এ মন,
+> তোমার উষ্ণ নিঃশ্বাসে আজ মাতাল এ ভুবন (মাতাল এ ভুবন)।
+> শীতল দেহে আগুন জ্বালো, জাগাও শিহরণ,
+> তুমি আমার তৃষ্ণার জল, প্রেমেরই প্লাবন।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

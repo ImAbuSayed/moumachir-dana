@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moumachir-dana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Moumachir Dana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moumachir-dana/) |
+| **Get License** | [Music Rights & Licensing for Moumachir Dana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moumachir-dana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4cc9d449b851bfa6aabab1edaf3bd3c5dd06f4dfb1bc5309241f72f90d2ccb33` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
